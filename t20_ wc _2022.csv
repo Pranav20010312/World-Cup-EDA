@@ -1,0 +1,47 @@
+Match_id,Team_1,Team_2,             Venue,Stage,Toss_winner,Toss_decision,Score_of_first_innings,Wkts_in_first_innings,Score_of_second_innings,Wkts_in_second_innings,Winner,Won by,Player_of_the_match
+1,Namibia,Sri Lanka,"GMHBA Stadium, South Geelong, Victoria",First Round,Sri Lanka,Field,163,7,108,10,Namibia,55 Runs,Jan Frylinck
+2,UAE,Netherlands ,"GMHBA Stadium, South Geelong, Victoria",First Round,UAE,Bat,111,8,112,7,Netherlands,3 Wickets,Bas de Leede
+3,Scotland,West Indies,"Bellerive Oval, Hobart",First Round,West Indies,Field,160,5,118,10,Scotland,42 Runs,George Munsey
+4,Zimbabwe,Ireland,"Bellerive Oval, Hobart",First Round,Ireland,Field,174,7,143,9,Zimbabwe,31 Runs,Sikandar Raza
+5,Namibia,Netherlands ,"GMHBA Stadium, South Geelong, Victoria",First Round,Namibia,Bat,121,6,122,5,Netherlands,5 Wickets,"
+Bas de Leede"
+6,Sri Lanka,UAE,"GMHBA Stadium, South Geelong, Victoria",First Round,UAE,Field,152,8,73,10,Sri Lanka,79 Runs,Pathum Nissanka
+7,Scotland,Ireland,"Bellerive Oval, Hobart",First Round,Scotland,Bat,176,5,180,4,Ireland,6 Wickets,Curtis Campher
+8,West Indies,Zimbabwe,"Bellerive Oval, Hobart",First Round,West Indies,Bat,153,7,122,10,West Indies,31 Runs,Alzarri Joseph
+9,Sri Lanka,Netherlands ,"GMHBA Stadium, South Geelong, Victoria",First Round,Sri Lanka,Bat,162,6,146,9,Sri Lanka,16 Runs,Kusal Mendis
+10,UAE,Namibia,"GMHBA Stadium, South Geelong, Victoria",First Round,UAE,Bat,148,3,141,8,UAE,7 Runs,Muhammad Waseem
+11,West Indies,Ireland,"Bellerive Oval, Hobart",First Round,West Indies,Bat,146,5,150,1,Ireland,9 Wickets,Gareth Delany
+12,Scotland,Zimbabwe,"Bellerive Oval, Hobart",First Round,Scotland,Bat,132,6,133,5,Zimbabwe,5 Wickets,Sikandar Raza
+13,New Zealand,Australia,"Sydney Cricket Ground, Sydney",Group,Australia,Field,200,3,111,10,New Zealand,89 Runs,Devon Conway
+14,Afghanistan,England,"Perth Stadium, Perth",Group,England,Field,112,10,113,5,England,5 Wickets,Sam Curran
+15,Ireland,Sri Lanka,"Bellerive Oval, Hobart",Group,Ireland,Bat,128,8,131,1,Sri Lanka,9 Wickets,Kusal Mendis
+16,Pakistan,India,"Melbourne Cricket Ground, Melbourne",Group,India,Field,159,8,160,6,India,4 Wickets,Virat Kohli
+17,Bangladesh,Netherlands ,"Bellerive Oval, Hobart",Group,Netherlands,Field,144,8,135,10,Bangladesh,9 Runs,Taskin Ahmed
+18,Zimbabwe,South Africa,"Bellerive Oval, Hobart",Group,Zimbabwe,Bat,79,5,51,0,No Result,No Result,_
+19,Sri Lanka,Australia,"Perth Stadium, Perth",Group,Australia,Field,157,6,158,3,Australia,7 Wickets,Marcus Stoinis
+20,Ireland,England,"Melbourne Cricket Ground, Melbourne",Group,England,Field,157,10,105,5,Ireland,5 Runs,Andrew Balbirnie
+21,Afghanistan,New Zealand,"Melbourne Cricket Ground, Melbourne",Group,_,_,_,_,_,_,No Result,No Result,_
+22,South Africa,Bangladesh,"Sydney Cricket Ground, Sydney",Group,South Africa,Bat,205,5,101,10,South Africa,104 Runs,Rilee Rossouw
+23,India,Netherlands ,"Sydney Cricket Ground, Sydney",Group,India,Bat,179,2,123,9,India,56 Runs,Suryakumar Yadav
+24,Zimbabwe,Pakistan,"Perth Stadium, Perth",Group,Zimbabwe,Bat,130,8,129,8,Zimbabwe,1 Run,Sikandar Raza
+25,Afghanistan,Ireland,"Melbourne Cricket Ground, Melbourne",Group,_,_,_,_,_,_,No Result,No Result,_
+26,Australia,England,"Melbourne Cricket Ground, Melbourne",Group,_,_,_,_,_,_,No Result,No Result,_
+27,New Zealand,Sri Lanka,"Sydney Cricket Ground, Sydney",Group,New Zealand,Bat,167,7,102,10,New Zealand,65 Runs,Glenn phillips
+28,Bangladesh,Zimbabwe,"The Gabba, Brisbane",Group,Bangladesh,Bat,150,7,147,8,Bangladesh,3 Runs,Taskin Ahmed
+29,Netherlands,Pakistan,"Perth Stadium, Perth",Group,Netherlands,Bat,91,9,95,4,Pakistan,6 Wickets,Shadab Khan
+30,India,South Africa,"Perth Stadium, Perth",Group,India,Bat,133,9,137,5,South Africa,5 Wickets,Lungi Ngidi
+31,Australia,Ireland,"The Gabba, Brisbane",Group,Ireland,Field,179,5,137,10,Australia,42 Runs,Aaron Finch
+32,Afghanistan,Sri Lanka,"The Gabba, Brisbane",Group,Afghanistan,Bat,144,8,148,4,Sri Lanka,6 Wickets,Wanindu Hasaranga
+33,England,New Zealand,"The Gabba, Brisbane",Group,England,Bat,179,6,159,6,England,20 Runs,Jos Buttler
+34,Zimbabwe,Netherlands ,"Adelaide Oval, Adelaide",Group,Zimbabwe,Bat,117,10,120,5,Netherlands,5 Wickets,Max O'Dowd
+35,India,Bangladesh,"Adelaide Oval, Adelaide",Group,Bangladesh,Field,184,6,145,6,India,5 Runs,Virat Kohli
+36,Pakistan,South Africa,"Sydney Cricket Ground, Sydney",Group,Pakistan,Bat,185,9,108,9,Pakistan,33 Runs,Shadab Khan
+37,New Zealand,Ireland,"Adelaide Oval, Adelaide",Group,Ireland,Field,185,6,150,9,New Zealand,35 Runs,Kane Williamson
+38,Australia,Afghanistan,"Adelaide Oval, Adelaide",Group,Afghanistan,Field,168,8,164,7,Australia,4 Runs,Glenn Maxwell
+39,Sri Lanka,England,"Sydney Cricket Ground, Sydney",Group,Sri Lanka,Bat,141,8,144,6,England,4 Wickets,Adil Rashid
+40,Netherlands,South Africa,"Adelaide Oval, Adelaide",Group,South Africa,Field,158,4,145,8,Netherlands,13 Runs,Colin Ackermann
+41,Bangladesh,Pakistan,"Adelaide Oval, Adelaide",Group,Bangladesh,Bat,127,8,128,5,Pakistan,5 Wickets,Shaheen Afridi
+42,India,Zimbabwe,"Melbourne Cricket Ground, Melbourne",Group,India,Bat,186,5,115,10,India,71 Runs,Suryakumar Yadav
+43,New Zealand,Pakistan,"Sydney Cricket Ground, Sydney",Semi Final,New Zealand,Bat,152,4,153,3,Pakistan,7 Wickets,Mohammed Rizwan
+44,India,England,"Adelaide Oval, Adelaide",Semi Final,England,Field,168,6,170,0,England,10 Wickets,Alex Hales
+45,England,Pakistan,"Melbourne Cricket Ground, Melbourne",Final,England,Field,137,8,138,5,England,5 Wickets,Sam Curran
