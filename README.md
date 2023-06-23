@@ -16,31 +16,14 @@ This project focuses on performing exploratory data analysis (EDA) on T20 World 
 # **Key Insights:**
 •	Based on the analysis, the following key insights were derived:
 
-•	Performance analysis of teams based on win percentages, total championships won, and match outcomes.
+•	Performance analysis of teams based on wins  and match outcomes.
 
 •	Player performance analysis, including highest run-scorers, wicket-takers, batting averages, and bowling averages.
-
-•	Analysis of team strategies, such as preferred batting positions, run rates, dismissal patterns, and fielding strategies.
-
-•	Relationship between team performance and home ground advantage.
 
 •	Comparison of player performances across different teams.
 
 •	Impact of batting or bowling first on match outcomes.
 
-# **Recommendations:**
-
-•	Based on the insights gained from the analysis, the following recommendations can be made to improve team strategies and enhance the T20 World Cup experience:
-
-•	Formulate game strategies by considering the impact of batting or bowling first.
-
-•	Focus on acquiring or selecting high-performing players based on their statistics.
-
-•	Leverage data-driven insights to optimize batting line-ups, bowling strategies, and fielding positions.
-
-•	Analyze performance trends and adapt team strategies accordingly.
-
-•	Consider the balance between player performances and team dynamics when making key decisions.
 
 # **Technologies Used:**
 
